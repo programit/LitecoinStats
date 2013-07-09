@@ -10,6 +10,7 @@ To Install
 2) Create config file in same directory as LitecoinStats.js
 
 FileName: config.js
+
 FileContents:
 
 var config = {}
